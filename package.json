@@ -1,0 +1,17 @@
+{
+    "name": "json-server-local",
+    "version": "1.0.0",
+    "description": "A simple project for json-server",
+    "main": "/js/server.js",
+    "scripts": {
+        "start": "node server.js"
+    },
+    "dependencies": {
+        "cloudinary": "^2.2.0",
+        "json-server": "^0.16.3",
+        "uuid": "^10.0.0"
+    },
+    "engines": {
+        "node": "14.x"
+    }
+}
